@@ -1,0 +1,9 @@
+#EXTINF:-1 group-title="Haberler" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png", Meclis Tv
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+
+#EXTINF:-1 group-title="Haberler" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png", Trt 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="Haberler" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png", Trt 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
