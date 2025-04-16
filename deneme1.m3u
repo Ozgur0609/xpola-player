@@ -1,3 +1,4 @@
+#EXTM3U
 # * » Spor « * #
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
