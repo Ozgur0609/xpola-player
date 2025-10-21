@@ -173,3 +173,5 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79388&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/2040314947a78a500eb28b4d.jpg",İstanbullu Gelin - 87. Bölüm 'Final Bölümü'
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79513&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r.resimlink.com/JLqHAm.png" group-title="Spor Kanalı",BeIN Sports 1
+#EXTVLCOPT:http-referrer=https://cenatv42.com/channel?id=yayinzirve
